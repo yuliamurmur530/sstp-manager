@@ -185,7 +185,7 @@ python3 tools/check_release.py --self-test
 
 ## Лицензии и используемые проекты
 
-Лицензия для кода проекта пока не выбрана. Сторонние компоненты распространяются на условиях своих лицензий.
+Код проекта распространяется по [лицензии MIT](LICENSE). Его можно использовать, изменять и распространять, в том числе в коммерческих проектах, сохраняя уведомление об авторстве и текст лицензии. Сторонние компоненты распространяются на условиях своих лицензий.
 
 Исходники и документация: [Accel-PPP](https://github.com/accel-ppp/accel-ppp), [Certbot](https://github.com/certbot/certbot), [Let's Encrypt](https://letsencrypt.org/docs/), [nginx](https://nginx.org/en/), [WireGuard](https://www.wireguard.com/), [Flask](https://github.com/pallets/flask), [Gunicorn](https://github.com/benoitc/gunicorn).
 

@@ -1,2 +1,2 @@
-a03f50622403dcb4bfe2742ab572abfdb090b4dc5413c9581cf8608327c06848  install.sh
-4dff79f94e2370c7160c991a43ac7a50077a2e205ed180b8217c9a1db816bebd  sstp-installer-source.zip
+2611df35e9370e5ea56797f4fb11bb77fefea7e866e6d3147ad00df6e7eb71f0  install.sh
+90bf2d64d27ad5a7d48636c29d554dad0d777829c92908c6ebe7df9b0a2ec78d  sstp-installer-source.zip
